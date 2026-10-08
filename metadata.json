@@ -1,0 +1,6 @@
+{
+  "name": "ShopMate AI",
+  "description": "Intelligent personal shopping companion with Google Maps store grounding, 90-day price tracking, and product discovery.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
